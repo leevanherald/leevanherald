@@ -50,9 +50,9 @@
   `React + Supabase + n8n` — End-to-end portfolio automation platform for a trading firm  
   [GitHub](https://github.com/leevanherald) · *Private repo, demo available on request*
 
-- 🧠 **Life Optimization Assistant**  
+<!-- - 🧠 **Life Optimization Assistant**  
   An AI-powered productivity coach that integrates with Google Calendar and understands your goals  
-  `LangChain + GPT + FastAPI + React`
+  `LangChain + GPT + FastAPI + React` -->
 
 - 🏠 **AI Property Manager**  
   Automates property maintenance workflows using Telegram, Supabase, and AI agents  
